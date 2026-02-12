@@ -45,11 +45,6 @@ This dataset was created to:
 - Extensive preprocessing to remove noise, normalize pitch, and ensure clarity
 - Ideal for TTS training and evaluation tasks
 
-## License
-
-[Specify your license here]
-
----
 
 **References:**  
 Dataset created for the paper:  
